@@ -44,5 +44,7 @@ ul.menu a:active {
 
     ul.menu li {
         border: 2px solid magenta;
+        flex-grow: 1;
+        text-align: center;
     }
 }
