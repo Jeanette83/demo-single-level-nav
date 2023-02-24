@@ -15,10 +15,12 @@ ul.menu a {
     text-decoration: none;
     text-transform: uppercase;
     display: block;
+    padding-left: 0.5rem;
 }
 
 /* then all the spacing and layout goe on the li elements:*/
 
 ul.menu li {
-
+    line-height: 55px;
+    margin-bottom: 0.75rem;
 }
