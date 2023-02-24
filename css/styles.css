@@ -1,1 +1,13 @@
 /* dev styles go here */
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: bisque;  /* if we have a black background we want our font to
+                                be white, but this styling has to be done on the 
+                                 anchor tag. (Anchor tags are tricky little buggers)*/
+}
+
+/* font styles go on the anchor directly: */
+
