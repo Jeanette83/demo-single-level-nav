@@ -30,3 +30,10 @@ ul.menu a:active {
     color: magenta
 }
 
+
+@media screen and (min-width:550px) {
+    ul.menu {
+        display: flex;
+        flex-flow: wrap;
+    }
+}
