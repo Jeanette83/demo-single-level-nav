@@ -24,3 +24,9 @@ ul.menu li {
     line-height: 55px;
     margin-bottom: 0.75rem;
 }
+
+ul.menu a:hover,
+ul.menu a:active {
+    color: magenta
+}
+
