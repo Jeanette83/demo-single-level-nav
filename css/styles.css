@@ -30,6 +30,11 @@ ul.menu a:active {
     color: magenta
 }
 
+.menu {
+    width: max-content;
+} 
+
+
 
 @media screen and (min-width:550px) {
     ul.menu {
