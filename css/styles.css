@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: bisque;  /* if we have a black background we want our font to
+    background-color: #191919;  /* if we have a black background we want our font to
                                 be white, but this styling has to be done on the 
                                  anchor tag. (Anchor tags are tricky little buggers)*/
 }
@@ -13,4 +13,6 @@ header {
 
 ul.menu a {
     color: #f5f5f5;
+    text-decoration: none;
+    text-transform: uppercase;
 }
