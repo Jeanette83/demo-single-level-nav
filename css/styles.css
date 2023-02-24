@@ -6,6 +6,8 @@ body {
 header {
     background-color: #191919;  
     padding:0.5rem;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 /* font styles go on the anchor directly: */
@@ -30,9 +32,6 @@ ul.menu a:active {
     color: magenta
 }
 
-.menu {
-    width: max-content;
-} 
 
 
 
