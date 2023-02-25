@@ -22,6 +22,7 @@ ul.menu a {
     text-transform: uppercase;
     display: block;
     padding: 0 0.5rem;
+    display: flex;
 }
 
 /* then all the spacing and layout goe on the li elements:*/
