@@ -23,6 +23,9 @@ ul.menu a {
     display: block;
     padding: 0 0.5rem;
     display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
 }
 
 /* then all the spacing and layout goe on the li elements:*/
